@@ -11,4 +11,4 @@ Module 18 Unsupervised Machine Learning
 
 * Del 4 Scatterplot
 
-![hvplot_scatter](https://raw.githubusercontent.com/mdwilliams11/Cryptocurrenciess/main/hvplot_scatter.png)
+![hvplot_scatter](https://raw.githubusercontent.com/mdwilliams11/Cryptocurrencies/main/hvplot_scatter.png)
